@@ -1,2 +1,2 @@
 from math import*
-print(sqrt(999))
+print(sqrt(222))
